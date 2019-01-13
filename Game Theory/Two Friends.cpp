@@ -9,7 +9,6 @@ int main(){
     int testCase,r;
     cin >> testCase;
 
-
     for(int i = 1; i <= testCase; i++){
         cin >> r;
 
